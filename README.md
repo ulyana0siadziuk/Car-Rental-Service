@@ -1,6 +1,6 @@
 # Car Rental Service 🚘
 
-Ссылка на проект: [ulyana0siadziuk.github.io/Car-Rental-Service](https://ulyana0siadziuk.github.io/Car-Rental-Service/)
+Ссылка на проект: [Car-Rental-Service](https://ulyana0siadziuk.github.io/Car-Rental-Service/)
 
 <img width="2800" height="3584" alt="ulyana0siadziuk github io_cars_" src="https://github.com/user-attachments/assets/99bb8942-2044-494d-a5a3-183e2f0eb66c" />
 
